@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Abu Bakar Ali - Turning Data, Code & Ideas Into Real-World Projects" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/banner.svg" alt="Abu Bakar Ali - Turning Data, Code & Ideas Into Real-World Projects" width="100%"/>
 
 <h1 align="center">Hi, I'm Abu Bakar Ali 👋</h1>
 
-<img src="assets/typing.svg" alt="Data Science Student, Future Data Scientist, Frontend Developer, Web & App Developer, DSA Learner, AI Enthusiast" width="640"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/typing.svg" alt="Data Science Student, Future Data Scientist, Frontend Developer, Web & App Developer, DSA Learner, AI Enthusiast" width="640"/>
 
 <br/><br/>
 
-<a href="https://github.com/AbuBakarAli96"><img src="https://img.shields.io/badge/GitHub-AbuBakarAli96-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/></a>
-<a href="https://instagram.com/abubakarali_offical"><img src="https://img.shields.io/badge/Instagram-abubakarali__offical-0d1117?style=for-the-badge&logo=instagram&logoColor=a855f7" alt="Instagram"/></a>
-<a href="mailto:bakarali1167@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0d1117?style=for-the-badge&logo=gmail&logoColor=3b82f6" alt="Email"/></a>
+<a href="https://github.com/AbuBakarAli96"><img src="https://img.shields.io/badge/GitHub-AbuBakarAli96-1f2a44?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/></a>
+<a href="https://instagram.com/abubakarali_offical"><img src="https://img.shields.io/badge/Instagram-abubakarali__offical-1f2a44?style=for-the-badge&logo=instagram&logoColor=a855f7" alt="Instagram"/></a>
+<a href="mailto:bakarali1167@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-1f2a44?style=for-the-badge&logo=gmail&logoColor=3b82f6" alt="Email"/></a>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 
 </div>
 
@@ -23,7 +23,7 @@ I'm a **BS Data Science student at PUCIT** who enjoys combining programming, dat
 My goal is simple: grow steadily into a **Data Scientist who can also build real software**.
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 </div>
 
 ## ✨ About Me
@@ -33,9 +33,9 @@ My goal is simple: grow steadily into a **Data Scientist who can also build real
 > **I don't just learn technologies.**
 > **I build with them.**
 
-<img src="assets/profile.svg" alt="Data to Code to Intelligence to Product" width="860"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/profile.svg" alt="Data to Code to Intelligence to Product" width="860"/>
 
-<img src="assets/coding.svg" alt="Animated code window: class AbuBakarAli with role, stack and goal" width="860"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/coding.svg" alt="Animated code window: class AbuBakarAli with role, stack and goal" width="860"/>
 
 </div>
 
@@ -56,17 +56,17 @@ Future Data Scientist
 ```
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 </div>
 
 ## 🌱 Currently Learning
 
 <div align="center">
-<img src="assets/learning.svg" alt="Currently learning: Python, Data Analysis, Machine Learning, AI, DSA, C++, Web Development, Data Visualization" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/learning.svg" alt="Currently learning: Python, Data Analysis, Machine Learning, AI, DSA, C++, Web Development, Data Visualization" width="100%"/>
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 </div>
 
 ## 🛠️ Tech Stack
@@ -83,38 +83,38 @@ Future Data Scientist
 <tr>
 <td align="center" valign="top">
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Python"/><br/>
-<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=22d3ee" alt="C++"/><br/>
-<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=22d3ee" alt="C"/>
+<img src="https://img.shields.io/badge/Python-1f2a44?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Python"/><br/>
+<img src="https://img.shields.io/badge/C++-1f2a44?style=for-the-badge&logo=cplusplus&logoColor=22d3ee" alt="C++"/><br/>
+<img src="https://img.shields.io/badge/C-1f2a44?style=for-the-badge&logo=c&logoColor=22d3ee" alt="C"/>
 
 </td>
 <td align="center" valign="top">
 
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=3b82f6" alt="HTML5"/><br/>
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=3b82f6" alt="CSS3"/><br/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=3b82f6" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-1f2a44?style=for-the-badge&logo=html5&logoColor=3b82f6" alt="HTML5"/><br/>
+<img src="https://img.shields.io/badge/CSS3-1f2a44?style=for-the-badge&logo=css3&logoColor=3b82f6" alt="CSS3"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-1f2a44?style=for-the-badge&logo=javascript&logoColor=3b82f6" alt="JavaScript"/>
 
 </td>
 <td align="center" valign="top">
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=a855f7" alt="Python"/><br/>
-<img src="https://img.shields.io/badge/Data_Analysis-111827?style=for-the-badge&logoColor=a855f7" alt="Data Analysis"/><br/>
-<img src="https://img.shields.io/badge/Data_Visualization-111827?style=for-the-badge&logoColor=a855f7" alt="Data Visualization"/><br/>
-<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=a855f7" alt="Excel"/>
+<img src="https://img.shields.io/badge/Python-1f2a44?style=for-the-badge&logo=python&logoColor=a855f7" alt="Python"/><br/>
+<img src="https://img.shields.io/badge/Data_Analysis-1f2a44?style=for-the-badge&logoColor=a855f7" alt="Data Analysis"/><br/>
+<img src="https://img.shields.io/badge/Data_Visualization-1f2a44?style=for-the-badge&logoColor=a855f7" alt="Data Visualization"/><br/>
+<img src="https://img.shields.io/badge/Excel-1f2a44?style=for-the-badge&logo=microsoftexcel&logoColor=a855f7" alt="Excel"/>
 
 </td>
 <td align="center" valign="top">
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logoColor=22d3ee" alt="Artificial Intelligence"/><br/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logoColor=22d3ee" alt="Prompt Engineering"/><br/>
-<img src="https://img.shields.io/badge/ML_Fundamentals-111827?style=for-the-badge&logoColor=22d3ee" alt="Machine Learning fundamentals"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-1f2a44?style=for-the-badge&logoColor=22d3ee" alt="Artificial Intelligence"/><br/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-1f2a44?style=for-the-badge&logoColor=22d3ee" alt="Prompt Engineering"/><br/>
+<img src="https://img.shields.io/badge/ML_Fundamentals-1f2a44?style=for-the-badge&logoColor=22d3ee" alt="Machine Learning fundamentals"/>
 
 </td>
 <td align="center" valign="top">
 
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=3b82f6" alt="Git"/><br/>
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=3b82f6" alt="GitHub"/><br/>
-<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=3b82f6" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-1f2a44?style=for-the-badge&logo=git&logoColor=3b82f6" alt="Git"/><br/>
+<img src="https://img.shields.io/badge/GitHub-1f2a44?style=for-the-badge&logo=github&logoColor=3b82f6" alt="GitHub"/><br/>
+<img src="https://img.shields.io/badge/VS_Code-1f2a44?style=for-the-badge&logo=visualstudiocode&logoColor=3b82f6" alt="VS Code"/>
 
 </td>
 </tr>
@@ -122,7 +122,7 @@ Future Data Scientist
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 </div>
 
 ## 🚀 Featured Projects
@@ -226,7 +226,7 @@ New projects land here as I finish them.
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 </div>
 
 ## 🧠 DSA Journey
@@ -234,7 +234,7 @@ New projects land here as I finish them.
 I'm actively strengthening my problem-solving and Data Structures & Algorithms skills, one topic at a time, moving from the basics toward harder patterns.
 
 <div align="center">
-<img src="assets/dsa-path.svg" alt="DSA path: Arrays, Strings, Linked Lists, Stacks and Queues, Trees, Graphs, Sorting, Searching, Dynamic Programming" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/dsa-path.svg" alt="DSA path: Arrays, Strings, Linked Lists, Stacks and Queues, Trees, Graphs, Sorting, Searching, Dynamic Programming" width="100%"/>
 
 <br/>
 
@@ -243,27 +243,27 @@ I'm actively strengthening my problem-solving and Data Structures & Algorithms s
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 </div>
 
 ## 🗺️ Data Science Roadmap
 
 <div align="center">
-<img src="assets/roadmap.svg" alt="Roadmap: Python, NumPy, Pandas, Data Cleaning, Data Visualization, Statistics, Machine Learning, Deep Learning, AI Systems, Future Data Scientist" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/roadmap.svg" alt="Roadmap: Python, NumPy, Pandas, Data Cleaning, Data Visualization, Statistics, Machine Learning, Deep Learning, AI Systems, Future Data Scientist" width="100%"/>
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 </div>
 
 ## 🔨 Building in Public
 
 <div align="center">
-<img src="assets/building.svg" alt="Currently building: DSA foundations, Data Science skills, AI understanding, full-stack projects, real-world software" width="760"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/building.svg" alt="Currently building: DSA foundations, Data Science skills, AI understanding, full-stack projects, real-world software" width="760"/>
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 </div>
 
 ## 📈 GitHub Statistics
@@ -301,7 +301,7 @@ I'm actively strengthening my problem-solving and Data Structures & Algorithms s
 -->
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 </div>
 
 ## 💬 Developer Quote
@@ -311,27 +311,27 @@ I'm actively strengthening my problem-solving and Data Structures & Algorithms s
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/divider.svg" alt="" width="100%"/>
 </div>
 
 ## 📬 Contact
 
 <div align="center">
 
-<a href="https://github.com/AbuBakarAli96"><img src="https://img.shields.io/badge/GitHub-AbuBakarAli96-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/></a>
-<a href="https://instagram.com/abubakarali_offical"><img src="https://img.shields.io/badge/Instagram-abubakarali__offical-0d1117?style=for-the-badge&logo=instagram&logoColor=a855f7" alt="Instagram"/></a>
-<a href="mailto:bakarali1167@gmail.com"><img src="https://img.shields.io/badge/Email-bakarali1167%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=3b82f6" alt="Email"/></a>
+<a href="https://github.com/AbuBakarAli96"><img src="https://img.shields.io/badge/GitHub-AbuBakarAli96-1f2a44?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/></a>
+<a href="https://instagram.com/abubakarali_offical"><img src="https://img.shields.io/badge/Instagram-abubakarali__offical-1f2a44?style=for-the-badge&logo=instagram&logoColor=a855f7" alt="Instagram"/></a>
+<a href="mailto:bakarali1167@gmail.com"><img src="https://img.shields.io/badge/Email-bakarali1167%40gmail.com-1f2a44?style=for-the-badge&logo=gmail&logoColor=3b82f6" alt="Email"/></a>
 
 </div>
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="Keep Learning. Keep Building. Keep Improving." width="100%"/>
+<img src="https://raw.githubusercontent.com/AbuBakarAli96/AbuBakarAli96/main/footer.svg" alt="Keep Learning. Keep Building. Keep Improving." width="100%"/>
 
 ### Thanks for visiting my profile 👋
 
-<a href="https://github.com/AbuBakarAli96"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/></a>
-<a href="https://instagram.com/abubakarali_offical"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=a855f7" alt="Instagram"/></a>
-<a href="mailto:bakarali1167@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3b82f6" alt="Email"/></a>
+<a href="https://github.com/AbuBakarAli96"><img src="https://img.shields.io/badge/GitHub-1f2a44?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/></a>
+<a href="https://instagram.com/abubakarali_offical"><img src="https://img.shields.io/badge/Instagram-1f2a44?style=for-the-badge&logo=instagram&logoColor=a855f7" alt="Instagram"/></a>
+<a href="mailto:bakarali1167@gmail.com"><img src="https://img.shields.io/badge/Email-1f2a44?style=for-the-badge&logo=gmail&logoColor=3b82f6" alt="Email"/></a>
 
 </div>
